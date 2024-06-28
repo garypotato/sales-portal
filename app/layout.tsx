@@ -21,7 +21,7 @@ export default function RootLayout({
 				<main className='flex flex-col min-h-screen'>
 					<div className='w-screen h-12 border-b border-b-stone-200 flex '>
 						<div className='w-1/6 border-r border-r-stone-200 flex justify-center items-center'>
-							<p>PiPi's Logo</p>
+							<p>Logo</p>
 						</div>
 						<div className='flex justify-end items-center grow'>
 							<Link
